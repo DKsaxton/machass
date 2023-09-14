@@ -1,0 +1,21 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.cont{
+    display: flex;
+}
+.menu{
+    padding-right: 10px;
+}
+.menu button{
+    background-color: blueviolet;
+    height: 40px;
+    color: blue;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.menu button:hover{
+    border: 2px solid chocolate;
+}
+@media (max-weight: 500px){}

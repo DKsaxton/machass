@@ -1,0 +1,32 @@
+h1{
+
+    color: red;
+}
+
+input::placeholder{
+
+    color: gray;
+}
+
+p{
+    text-decoration-line: underline; /*overline, none, line-throung, underline*/
+
+    text-decoration-color: blueviolet;/*cor*/
+
+    text-decoration-style: double;/*tipo*/
+
+    text-decoration-thickness: 1.5px;/*tamanho*/
+
+    /*shorthand
+ text-decoration:
+  */
+
+  text-decoration: underline blueviolet double 1.5px;
+
+  text-transform: capitalize;/*transformar o texto, uppercase, lowercase, captalize*/
+
+
+
+  
+}
+

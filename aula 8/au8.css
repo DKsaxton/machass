@@ -1,0 +1,26 @@
+h1{
+    /*padding=espaço entre, conteudo e borda*/
+    padding-top: 50px;
+
+    /* shorthand
+    padding: 50px;(todos iguais)
+
+    padding: sentido horario cima, direita, baixo, esquerda;
+
+    padding:
+    */
+
+    /*border*/
+
+    border-color: blueviolet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5%;
+    /* shorthand
+    border: >width >style >color;
+    */
+
+    /* margem= espaço entre bordas */
+/* shorhand a mesma do padding */
+}
+p{border: blueviolet 3px solid; padding: 5px;}

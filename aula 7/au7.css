@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+h1{
+    font-family: 'Black Ops One', cursive;
+    font-style: oblique;/*formatação*/
+    font-weight: bolder;/*tamanho*/
+    color: blueviolet;
+    font-size: 110%;/*tamanho*/
+
+    text-shadow: 20% black  ;
+}
+p{
+    text-indent: 5%;/*paragrafo*/
+    text-align: justify;
+}
+/*shorthand
+
+font:style >variant >weith >size >family
+*/
